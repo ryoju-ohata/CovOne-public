@@ -1,0 +1,1 @@
+{"version":3,"sources":["kintone.scss"],"names":[],"mappings":"AAAA,MACE","file":"kintone.css","sourceRoot":"../../../helper/src/kintone","sourcesContent":[".main {\n  display: none;\n}\n"]}
